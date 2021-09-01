@@ -88,6 +88,7 @@ Me_Image = img`
 Narrator_say("Hello!")
 Narrator_say("I'm the narrator!")
 Dnamra_Say("Oh and I'm Dnamra")
+Narrator_say("Press 'A' to skip text")
 Narrator_say("Here I'm going to show you how I make all my Drawings")
 Narrator_say("Well not all my drawings...")
 Dnamra_Say("OH REALLY!!!")
